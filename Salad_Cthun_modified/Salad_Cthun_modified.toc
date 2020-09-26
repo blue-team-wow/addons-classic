@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: Salad_Cthun_modified
+## Author: Goffauxs,lipsen
+## Version: 1.01
+## Notes: Shows optimal positioning based on raid groups on C'thun
+## SavedVariables: DotFrameType
+Salad_Cthun_modified.lua
