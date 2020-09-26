@@ -4,7 +4,7 @@ These are custom, modified, or required addons used by Blue Team.
 
 ## Installation
 
-1. Download the latest repository source as zip, [https://github.com/blue-team-wow/addons-classic/archive/master.zip](click here).
+1. Download the latest repository source as zip [https://github.com/blue-team-wow/addons-classic/archive/master.zip](from here).
 2. Unzip the downloaded file wich contains a single directory `addons-classic-master`.
 3. Open the directory `addons-classic-master` which contains the AddOn folders.
 4. Copy everything from inside that directory to your WoW AddOns directory.
