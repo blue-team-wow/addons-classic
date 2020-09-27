@@ -16,4 +16,4 @@ Depending on your install location and drive configuration the default install d
 
 - Salad_Cthun_modified
 
-Modified version of Salad_Cthun from [https://www.curseforge.com/wow/addons/salad_cthun](https://www.curseforge.com/wow/addons/salad_cthun)
+Modified version of Salad_Cthun [from CurseForge](https://www.curseforge.com/wow/addons/salad_cthun).
